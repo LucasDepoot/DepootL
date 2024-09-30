@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/BricoDeco.png",
             "title": "Bric'O Déc'O",
-            "bodyText": "-  Développement avec React et Symfony\n -  Site permettant aux utilisateurs de consulter et partager des tutoriels\n - Upload d'images",
+            "bodyText": "-  Développement du Front-end avec React \n -  Site permettant aux utilisateurs de consulter et partager des tutoriels\n - Projet de fin de formation en autonomie",
             "links": [
                 {
                     "text": "Non disponible",
@@ -13,7 +13,6 @@
             "tags" : [
                 "React",
                 "Redux",
-                "Symfony",
                 "Fin de formation",
                 "Travail d'équipe"
             ]
@@ -21,7 +20,7 @@
         {
             "image" : "images/projects/Marc.png",
             "title": "MARC -  Manager de cuisine",
-            "bodyText": "- Développement avec React et Symfony\n - Gestion d'un garde-manger\n - Gestion d'une liste de recettes \n - Creation d'une liste de courses",
+            "bodyText": "- Développement avec React et Symfony\n - Site à usage personnel permettant de planifier des recettes,genérer une liste de courses et gérer un garde-manger",
             "links": [
                 {
                     "text": "En cours de développement",
